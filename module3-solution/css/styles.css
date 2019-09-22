@@ -1,0 +1,77 @@
+body {
+	font-size: 16px;
+	background-color: #4dff4d;
+	color: #fff;
+}
+h1 {
+	color: #4d4dff;
+}
+h2 {
+	padding-bottom: 10px;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	color: white;
+}
+h3 {
+	padding-bottom: 10px;
+	font-family: 'Kanit', sans-serif;
+	font-weight: bold;
+	color: black;
+	font-size: 23px;
+	text-align: center;
+}
+#header-nav {
+	background-color: #ff8533;
+	border-radius: 0;
+	border: 0; 
+}
+.contain {
+	background-color:#d1d1e0;
+	color: black;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 10px; 
+}
+li {
+	text-align: center;
+	border: 1px;
+}
+.dist {
+	background-color: yellow;
+}
+#margin {
+	margin-bottom: -10px;
+}
+.navbar-brand {
+	padding-top: 25px;
+}
+.navbar-brand h1 {
+	color: #4d4dff;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+#nav-list {
+	margin-top: 10px;
+}
+.border {
+	border-top: 1px solid black;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+.border1 {
+	border: 1px solid black;
+}
+#nav-list a:hover {
+	background: #d1d1e0;
+}
+.navbar-header button.navbar-toggle, .icon-bar {
+	border: 1px solid black;
+}
